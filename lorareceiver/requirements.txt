@@ -1,0 +1,4 @@
+pyLoRa
+RPi.GPIO
+spidev
+requests
