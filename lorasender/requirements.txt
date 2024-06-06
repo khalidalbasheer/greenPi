@@ -1,0 +1,4 @@
+flask
+pyLoRa
+RPi.GPIO
+spidev
