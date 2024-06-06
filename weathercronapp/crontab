@@ -1,0 +1,3 @@
+1 0 * * * echo 'Cron Works'
+1 0 * * * python /app/app.py
+
